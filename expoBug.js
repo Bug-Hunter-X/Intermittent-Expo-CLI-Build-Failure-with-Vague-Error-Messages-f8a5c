@@ -1,0 +1,1 @@
+While building an Expo app, I encountered an error related to the expo-cli. The error message was vague and didn't provide enough details for debugging. The build process would fail without clearly indicating the root cause. I tried various troubleshooting steps but couldn't identify the problem. The error seemed intermittent and didn't occur consistently.
